@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>userInfo</key>
+	<dict>
+		<key>user</key>
+		<string></string>
+		<key>userDynamic</key>
+		<array/>
+		<key>userPhoto</key>
+		<array>
+			<array>
+				<string>1.jpg</string>
+				<string>2.jpg</string>
+				<string>3.jpg</string>
+				<string>4.jpg</string>
+				<string>5.jpg</string>
+				<string>6.jpg</string>
+			</array>
+		</array>
+		<key>name</key>
+		<string>梦很想家</string>
+		<key>userImage</key>
+		<string>8.jpg</string>
+		<key>dynamic</key>
+		<string>动态</string>
+		<key>dynamicCount</key>
+		<integer>0</integer>
+		<key>focus</key>
+		<string>关注</string>
+		<key>focusCount</key>
+		<integer>0</integer>
+		<key>fans</key>
+		<string>粉丝</string>
+		<key>fansCount</key>
+		<integer>0</integer>
+		<key>userAddress</key>
+		<string>银河系，地球</string>
+		<key>userSpeak</key>
+		<string>相由心生，境由心造。</string>
+	</dict>
+</dict>
+</plist>

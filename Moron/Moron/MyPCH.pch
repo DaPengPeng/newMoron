@@ -1,0 +1,36 @@
+//
+//  MyPCH.pch
+//  Moron
+//
+//  Created by bever on 16/3/22.
+//  Copyright © 2016年 清风. All rights reserved.
+//
+
+#ifndef MyPCH_pch
+#define MyPCH_pch
+
+
+#import "MyHeader.h"
+
+#import <UIKit/UIKit.h>
+
+#define kXMPP_MESSAGE_CHANGE @"XMPP_MESSAGE_CHANGE"
+
+#define kAppkey @"2256338763"
+#define kRedirectURI @"http://www.baidu.com"
+#define kAccessToken [[NSUserDefaults standardUserDefaults] objectForKey:@"accessToken"]
+#define kUid [[NSUserDefaults standardUserDefaults] objectForKey:@"uid"]
+#define kUserInfo [[NSUserDefaults standardUserDefaults] objectForKey:@"userInfo"]
+#define kAppDelegate [UIApplication sharedApplication].delegate
+
+#define kIdenxChange @"indexChange"
+
+#define kGO @"go"
+#define kRegister @"register"
+#define kPopulate @"populate"
+#define kMessage @"message"
+#define kSaveDic @"saveDic"
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* MyPCH_pch */

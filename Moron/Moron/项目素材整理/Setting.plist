@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>array1</key>
+	<array>
+		<string>个人资料</string>
+		<string>账号管理</string>
+		<string>账号绑定</string>
+		<string>隐私设置</string>
+	</array>
+	<key>array2</key>
+	<array>
+		<string>健身目标</string>
+		<string>健身基础</string>
+		<string>训练设置</string>
+	</array>
+	<key>array3</key>
+	<array>
+		<string>消息推送</string>
+		<string>缓存管理</string>
+		<string>上传TV版训练</string>
+	</array>
+	<key>array4</key>
+	<array>
+		<string>关于</string>
+		<string>邀请好友</string>
+		<string>用户反馈</string>
+		<string>检查更新</string>
+	</array>
+</dict>
+</plist>
